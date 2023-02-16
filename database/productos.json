@@ -1,0 +1,120 @@
+{
+  "tabla": {
+    "1": {
+      "id": 1,
+      "active": false,
+      "width": "100px",
+      "position": 3,
+      "columns": [
+        "name",
+        "laptop",
+        "audifonos",
+        "laptop",
+        "audifonos",
+        "laptop",
+        "audifonos",
+        "procesado",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado"
+        ]
+     },
+     
+     "2": {
+      "id": 2,
+      "active": false,
+      "width": "100px",
+      "position": 3,
+      "columns":  [ 
+        "stock",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado",
+        "procesado",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado"
+        ]
+     },
+
+     "3": {
+      "id": 3,
+      "active": false,
+      "width": "100px",
+      "position": 3,
+      "columns":  [ 
+        "descripcion",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado",
+        "procesado",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado"
+        ]
+     },
+     "4": {
+      "id": 4,
+      "active": false,
+      "width": "100px",
+      "position": 3,
+      "columns":  [ 
+        "producto",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado",
+        "procesado",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado"
+        ]
+     },
+     "5": {
+      "id": 5,
+      "active": false,
+      "width": "100px",
+      "position": 3,
+      "columns":  [ 
+        "caracteristicas",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado",
+        "en proceso",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado",
+        "en stock",
+        "agotado"
+        ]
+     }
+
+     
+    
+  }
+}
+  
